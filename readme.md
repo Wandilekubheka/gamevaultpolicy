@@ -8,7 +8,7 @@ Game Vault is a marketplace application designed for safely buying and selling g
 
 Click the button below to download the latest version of the app:
 
-<a href="https://github.com/Wandilekubheka/game-vault-release/blob/main/release/game_vault.apk">
+<a href="https://github.com/Wandilekubheka/game-vault-release/raw/refs/heads/main/release/game_vault.apk">
   <img src="https://img.shields.io/badge/Download%20APK-Game%20Vault-green?style=for-the-badge" />
 </a>
 
