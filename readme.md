@@ -17,7 +17,7 @@ Click the button below to download the latest version of the app:
 
 Click the button below to download the latest seller version of the app:
 
-<a href="https://github.com/Wandilekubheka/game-vault-release/raw/refs/heads/main/release/game_vault.apk">
+<a href="https://github.com/Wandilekubheka/game-vault-release/raw/refs/heads/main/release/game_vault_seller.apk">
   <img src="https://img.shields.io/badge/Download%20APK-Game%20Vault-green?style=for-the-badge" />
 </a>
 
